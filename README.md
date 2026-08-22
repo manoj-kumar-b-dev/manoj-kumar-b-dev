@@ -47,8 +47,8 @@
 
 **🔗 Links**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4F46E5?style=for-the-badge)](YOUR_VIZORA_URL)
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-18181B?style=for-the-badge&logo=github)](YOUR_VIZORA_REPO)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4F46E5?style=for-the-badge)](https://vizora-web.vercel.app/)
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-18181B?style=for-the-badge&logo=github)](https://github.com/manoj-kumar-b-dev/Vizora)
 
 ---
 
@@ -73,8 +73,8 @@
 
 **🔗 Links**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4F46E5?style=for-the-badge)](YOUR_REQFORGE_URL)
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-18181B?style=for-the-badge&logo=github)](YOUR_REQFORGE_REPO)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4F46E5?style=for-the-badge)](https://req-forge-app.vercel.app/)
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-18181B?style=for-the-badge&logo=github)](https://github.com/manoj-kumar-b-dev/ReqForge)
 
 ---
 
@@ -99,8 +99,8 @@
 
 **🔗 Links**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4F46E5?style=for-the-badge)](YOUR_SHOPFLOW_URL)
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-18181B?style=for-the-badge&logo=github)](YOUR_SHOPFLOW_REPO)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4F46E5?style=for-the-badge)](https://shop-flow-app.vercel.app/)
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-18181B?style=for-the-badge&logo=github)](https://github.com/manoj-kumar-b-dev/ShopFlow)
 
 ---
 
