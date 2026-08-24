@@ -28,7 +28,8 @@
 # 🚀 Featured Projects
 
 ### 📊 Vizora — AI Analytics Dashboard
-<img width="800" height="450" alt="vizora" src="https://github.com/user-attachments/assets/1217757f-aefa-4f83-9ac5-d7001caf39cd" />
+
+<img width="1121" height="581" alt="image" src="https://github.com/user-attachments/assets/f8afa949-c317-4c03-89cd-5ef534135107" />
 
 > AI-powered analytics platform that transforms CSV/Excel datasets into interactive dashboards, KPIs, visualizations, and AI-driven insights.
 
@@ -54,8 +55,7 @@
 
 ### 🔧 ReqForge — API Development & Testing Platform
 
-<img width="800" height="450" alt="reqforge" src="https://github.com/user-attachments/assets/d7da8010-4881-44e6-87bf-823229a5e4d7" />
-
+<img width="1572" height="816" alt="image" src="https://github.com/user-attachments/assets/d3de93a9-e4c4-430b-a3ef-1ea4cf3ac504" />
 
 > Modern developer platform for creating, importing, testing, and managing API requests and responses.
 
@@ -79,7 +79,7 @@
 ---
 
 ### 🛒 ShopFlow — Full Stack E-Commerce Platform
-<img width="800" height="450" alt="shopflow" src="https://github.com/user-attachments/assets/f1c316ba-7d58-468f-a8b6-2767c87abe76" />
+<img width="1120" height="580" alt="shopflow" src="https://github.com/user-attachments/assets/f1c316ba-7d58-468f-a8b6-2767c87abe76" />
 
 > Full-stack e-commerce application featuring customer shopping, authentication, Razorpay payments, and an admin product management dashboard.
 
