@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar-4981873b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojkumarb.2305@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?logo=internet-explorer&logoColor=white)](https://manoj-kumar-web.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumar-webdev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojkumarb.2305@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?logo=internet-explorer&logoColor=white)](https://manoj-kumar-web.vercel.app/)
 
 ---
 
