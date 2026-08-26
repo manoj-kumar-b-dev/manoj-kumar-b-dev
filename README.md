@@ -101,15 +101,3 @@
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4F46E5?style=for-the-badge)](https://shop-flow-app.vercel.app/)
 [![Source Code](https://img.shields.io/badge/💻_Source_Code-18181B?style=for-the-badge&logo=github)](https://github.com/manoj-kumar-b-dev/ShopFlow)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manoj-kumar-b-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manoj-kumar-b-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manoj-kumar-b-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=manoj-kumar-b-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
